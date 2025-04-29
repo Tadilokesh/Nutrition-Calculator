@@ -393,3 +393,108 @@
 2025-04-29T11:39:29.735Z [WARN]: No standard serving size for Non - Veg Gravy, using default of 100g
 2025-04-29T11:39:29.736Z [WARN]: Calculated total weight (1055g) differs significantly from expected weight for 4 servings (400g)
 2025-04-29T11:39:29.736Z [INFO]: Successfully estimated nutrition for chicken
+2025-04-29T15:13:58.566Z [INFO]: Estimating nutrition for: biryani
+2025-04-29T15:13:58.571Z [WARN]: No recipe found for biryani, using fallback recipe
+2025-04-29T15:13:58.572Z [WARN]: Could not standardize ingredient name: main ingredient
+2025-04-29T15:13:58.574Z [WARN]: Could not standardize ingredient name: onion
+2025-04-29T15:13:58.576Z [WARN]: Could not standardize ingredient name: tomato
+2025-04-29T15:13:58.576Z [WARN]: Could not standardize ingredient name: spices
+2025-04-29T15:13:58.577Z [WARN]: Unhandled unit conversion: 2 teaspoon of spices, assuming 10g
+2025-04-29T15:13:58.579Z [WARN]: Ingredient 'main ingredient' not found in nutrition database
+2025-04-29T15:13:58.584Z [WARN]: Ingredient 'onion' not found in nutrition database
+2025-04-29T15:13:58.584Z [WARN]: Ingredient 'tomato' not found in nutrition database
+2025-04-29T15:13:58.586Z [WARN]: Ingredient 'spices' not found in nutrition database
+2025-04-29T15:13:58.587Z [WARN]: No standard serving size for Veg Gravy, using default of 100g
+2025-04-29T15:13:58.588Z [INFO]: Successfully estimated nutrition for biryani
+2025-04-29T15:23:03.468Z [INFO]: Estimating nutrition for: Paneer
+2025-04-29T15:23:03.471Z [WARN]: No recipe found for Paneer, using fallback recipe
+2025-04-29T15:23:03.472Z [WARN]: Could not standardize ingredient name: onion
+2025-04-29T15:23:03.476Z [WARN]: Could not standardize ingredient name: tomato
+2025-04-29T15:23:03.476Z [WARN]: Could not standardize ingredient name: ginger
+2025-04-29T15:23:03.477Z [WARN]: Could not standardize ingredient name: garlic
+2025-04-29T15:23:03.478Z [WARN]: Unhandled unit conversion: 3 liter of garlic, assuming 10g
+2025-04-29T15:23:03.479Z [WARN]: Could not standardize ingredient name: green chilli
+2025-04-29T15:23:03.481Z [WARN]: Could not standardize ingredient name: spices
+2025-04-29T15:23:03.482Z [WARN]: Unhandled unit conversion: 2 teaspoon of spices, assuming 10g
+2025-04-29T15:23:03.483Z [WARN]: Ingredient 'onion' not found in nutrition database
+2025-04-29T15:23:03.484Z [WARN]: Ingredient 'tomato' not found in nutrition database
+2025-04-29T15:23:03.485Z [WARN]: Ingredient 'ginger' not found in nutrition database
+2025-04-29T15:23:03.486Z [WARN]: Ingredient 'garlic' not found in nutrition database
+2025-04-29T15:23:03.487Z [WARN]: Ingredient 'green chilli' not found in nutrition database
+2025-04-29T15:23:03.491Z [WARN]: Ingredient 'spices' not found in nutrition database
+2025-04-29T15:23:03.492Z [WARN]: No standard serving size for Veg Gravy, using default of 100g
+2025-04-29T15:23:03.494Z [INFO]: Successfully estimated nutrition for Paneer
+2025-04-29T15:23:32.375Z [INFO]: Estimating nutrition for: Paneer buttler masala
+2025-04-29T15:23:32.379Z [WARN]: No recipe found for Paneer buttler masala, using fallback recipe
+2025-04-29T15:23:32.383Z [WARN]: Could not standardize ingredient name: onion
+2025-04-29T15:23:32.384Z [WARN]: Could not standardize ingredient name: tomato
+2025-04-29T15:23:32.386Z [WARN]: Could not standardize ingredient name: ginger
+2025-04-29T15:23:32.387Z [WARN]: Could not standardize ingredient name: garlic
+2025-04-29T15:23:32.388Z [WARN]: Unhandled unit conversion: 3 liter of garlic, assuming 10g
+2025-04-29T15:23:32.389Z [WARN]: Could not standardize ingredient name: green chilli
+2025-04-29T15:23:32.391Z [WARN]: Could not standardize ingredient name: spices
+2025-04-29T15:23:32.392Z [WARN]: Unhandled unit conversion: 2 teaspoon of spices, assuming 10g
+2025-04-29T15:23:32.393Z [WARN]: Ingredient 'onion' not found in nutrition database
+2025-04-29T15:23:32.396Z [WARN]: Ingredient 'tomato' not found in nutrition database
+2025-04-29T15:23:32.397Z [WARN]: Ingredient 'ginger' not found in nutrition database
+2025-04-29T15:23:32.400Z [WARN]: Ingredient 'garlic' not found in nutrition database
+2025-04-29T15:23:32.400Z [WARN]: Ingredient 'green chilli' not found in nutrition database
+2025-04-29T15:23:32.401Z [WARN]: Ingredient 'spices' not found in nutrition database
+2025-04-29T15:23:32.402Z [WARN]: No standard serving size for Veg Gravy, using default of 100g
+2025-04-29T15:23:32.403Z [INFO]: Successfully estimated nutrition for Paneer buttler masala
+2025-04-29T15:23:44.442Z [INFO]: Estimating nutrition for: cheken
+2025-04-29T15:23:44.447Z [WARN]: No recipe found for cheken, using fallback recipe
+2025-04-29T15:23:44.448Z [WARN]: Could not standardize ingredient name: main ingredient
+2025-04-29T15:23:44.449Z [WARN]: Could not standardize ingredient name: onion
+2025-04-29T15:23:44.450Z [WARN]: Could not standardize ingredient name: tomato
+2025-04-29T15:23:44.451Z [WARN]: Could not standardize ingredient name: spices
+2025-04-29T15:23:44.452Z [WARN]: Unhandled unit conversion: 2 teaspoon of spices, assuming 10g
+2025-04-29T15:23:44.453Z [WARN]: Ingredient 'main ingredient' not found in nutrition database
+2025-04-29T15:23:44.454Z [WARN]: Ingredient 'onion' not found in nutrition database
+2025-04-29T15:23:44.455Z [WARN]: Ingredient 'tomato' not found in nutrition database
+2025-04-29T15:23:44.459Z [WARN]: Ingredient 'spices' not found in nutrition database
+2025-04-29T15:23:44.460Z [WARN]: No standard serving size for Veg Gravy, using default of 100g
+2025-04-29T15:23:44.462Z [INFO]: Successfully estimated nutrition for cheken
+2025-04-29T15:23:59.031Z [INFO]: Estimating nutrition for: Biryani
+2025-04-29T15:23:59.033Z [WARN]: No recipe found for Biryani, using fallback recipe
+2025-04-29T15:23:59.037Z [WARN]: Could not standardize ingredient name: main ingredient
+2025-04-29T15:23:59.038Z [WARN]: Could not standardize ingredient name: onion
+2025-04-29T15:23:59.040Z [WARN]: Could not standardize ingredient name: tomato
+2025-04-29T15:23:59.040Z [WARN]: Could not standardize ingredient name: spices
+2025-04-29T15:23:59.041Z [WARN]: Unhandled unit conversion: 2 teaspoon of spices, assuming 10g
+2025-04-29T15:23:59.042Z [WARN]: Ingredient 'main ingredient' not found in nutrition database
+2025-04-29T15:23:59.043Z [WARN]: Ingredient 'onion' not found in nutrition database
+2025-04-29T15:23:59.045Z [WARN]: Ingredient 'tomato' not found in nutrition database
+2025-04-29T15:23:59.048Z [WARN]: Ingredient 'spices' not found in nutrition database
+2025-04-29T15:23:59.049Z [WARN]: No standard serving size for Veg Gravy, using default of 100g
+2025-04-29T15:23:59.051Z [INFO]: Successfully estimated nutrition for Biryani
+2025-04-29T15:24:11.854Z [INFO]: Estimating nutrition for: Hyderabad Biryani
+2025-04-29T15:24:11.861Z [WARN]: No recipe found for Hyderabad Biryani, using fallback recipe
+2025-04-29T15:24:11.866Z [WARN]: Could not standardize ingredient name: main ingredient
+2025-04-29T15:24:11.868Z [WARN]: Could not standardize ingredient name: onion
+2025-04-29T15:24:11.871Z [WARN]: Could not standardize ingredient name: tomato
+2025-04-29T15:24:11.876Z [WARN]: Could not standardize ingredient name: spices
+2025-04-29T15:24:11.879Z [WARN]: Unhandled unit conversion: 2 teaspoon of spices, assuming 10g
+2025-04-29T15:24:11.880Z [WARN]: Ingredient 'main ingredient' not found in nutrition database
+2025-04-29T15:24:11.882Z [WARN]: Ingredient 'onion' not found in nutrition database
+2025-04-29T15:24:11.883Z [WARN]: Ingredient 'tomato' not found in nutrition database
+2025-04-29T15:24:11.885Z [WARN]: Ingredient 'spices' not found in nutrition database
+2025-04-29T15:24:11.886Z [WARN]: No standard serving size for Veg Gravy, using default of 100g
+2025-04-29T15:24:11.889Z [INFO]: Successfully estimated nutrition for Hyderabad Biryani
+2025-04-29T15:24:35.082Z [INFO]: Estimating nutrition for: chicken
+2025-04-29T15:24:35.085Z [WARN]: No recipe found for chicken, using fallback recipe
+2025-04-29T15:24:35.089Z [WARN]: Could not standardize ingredient name: onion
+2025-04-29T15:24:35.089Z [WARN]: Could not standardize ingredient name: tomato
+2025-04-29T15:24:35.093Z [WARN]: Could not standardize ingredient name: ginger
+2025-04-29T15:24:35.096Z [WARN]: Could not standardize ingredient name: garlic
+2025-04-29T15:24:35.097Z [WARN]: Unhandled unit conversion: 5 liter of garlic, assuming 10g
+2025-04-29T15:24:35.100Z [WARN]: Could not standardize ingredient name: spices
+2025-04-29T15:24:35.101Z [WARN]: Unhandled unit conversion: 2 tablespoon of spices, assuming 10g
+2025-04-29T15:24:35.101Z [WARN]: Ingredient 'onion' not found in nutrition database
+2025-04-29T15:24:35.102Z [WARN]: Ingredient 'tomato' not found in nutrition database
+2025-04-29T15:24:35.103Z [WARN]: Ingredient 'ginger' not found in nutrition database
+2025-04-29T15:24:35.104Z [WARN]: Ingredient 'garlic' not found in nutrition database
+2025-04-29T15:24:35.105Z [WARN]: Ingredient 'spices' not found in nutrition database
+2025-04-29T15:24:35.106Z [WARN]: No standard serving size for Non - Veg Gravy, using default of 100g
+2025-04-29T15:24:35.107Z [WARN]: Calculated total weight (1055g) differs significantly from expected weight for 4 servings (400g)
+2025-04-29T15:24:35.107Z [INFO]: Successfully estimated nutrition for chicken
