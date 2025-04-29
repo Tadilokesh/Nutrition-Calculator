@@ -1,0 +1,395 @@
+2025-04-28T17:41:54.583Z [ERROR]: Error in main execution: IngredientStandardizer is not a constructor
+2025-04-28T17:51:09.497Z [INFO]: Processing dish: Paneer Butter Masala
+2025-04-28T17:51:09.501Z [INFO]: Estimating nutrition for: Paneer Butter Masala
+2025-04-28T17:51:09.504Z [INFO]: Using sample recipe for Paneer Butter Masala
+2025-04-28T17:51:09.510Z [ERROR]: Error estimating nutrition for Paneer Butter Masala: logger.warning is not a function
+2025-04-28T17:51:09.559Z [INFO]: Processing dish: Dal Makhani
+2025-04-28T17:51:09.563Z [INFO]: Estimating nutrition for: Dal Makhani
+2025-04-28T17:51:09.566Z [INFO]: Using sample recipe for Dal Makhani
+2025-04-28T17:51:09.567Z [INFO]: Mapped 'black urad dal' to 'dal'
+2025-04-28T17:51:09.568Z [ERROR]: Error estimating nutrition for Dal Makhani: logger.warning is not a function
+2025-04-28T17:51:09.571Z [INFO]: Processing dish: Chole Bhature
+2025-04-28T17:51:09.572Z [INFO]: Estimating nutrition for: Chole Bhature
+2025-04-28T17:51:09.573Z [INFO]: Using sample recipe for Chole Bhature
+2025-04-28T17:51:09.573Z [ERROR]: Error estimating nutrition for Chole Bhature: logger.warning is not a function
+2025-04-28T17:51:09.576Z [INFO]: Processing dish: Palak Paneer
+2025-04-28T17:51:09.582Z [INFO]: Estimating nutrition for: Palak Paneer
+2025-04-28T17:51:09.583Z [INFO]: Using sample recipe for Palak Paneer
+2025-04-28T17:51:09.585Z [ERROR]: Error estimating nutrition for Palak Paneer: logger.warning is not a function
+2025-04-28T17:51:09.588Z [INFO]: Processing dish: Aloo Gobi
+2025-04-28T17:51:09.589Z [INFO]: Estimating nutrition for: Aloo Gobi
+2025-04-28T17:51:09.590Z [INFO]: Using sample recipe for Aloo Gobi
+2025-04-28T17:51:09.591Z [ERROR]: Error estimating nutrition for Aloo Gobi: logger.warning is not a function
+2025-04-28T17:52:15.067Z [INFO]: Processing dish: Paneer Butter Masala
+2025-04-28T17:52:15.071Z [INFO]: Estimating nutrition for: Paneer Butter Masala
+2025-04-28T17:52:15.072Z [INFO]: Using sample recipe for Paneer Butter Masala
+2025-04-28T17:52:15.077Z [ERROR]: Error estimating nutrition for Paneer Butter Masala: logger.warning is not a function
+2025-04-28T17:52:15.079Z [INFO]: Processing dish: Dal Makhani
+2025-04-28T17:52:15.080Z [INFO]: Estimating nutrition for: Dal Makhani
+2025-04-28T17:52:15.081Z [INFO]: Using sample recipe for Dal Makhani
+2025-04-28T17:52:15.082Z [INFO]: Mapped 'black urad dal' to 'dal'
+2025-04-28T17:52:15.083Z [ERROR]: Error estimating nutrition for Dal Makhani: logger.warning is not a function
+2025-04-28T17:52:15.086Z [INFO]: Processing dish: Chole Bhature
+2025-04-28T17:52:15.087Z [INFO]: Estimating nutrition for: Chole Bhature
+2025-04-28T17:52:15.093Z [INFO]: Using sample recipe for Chole Bhature
+2025-04-28T17:52:15.095Z [ERROR]: Error estimating nutrition for Chole Bhature: logger.warning is not a function
+2025-04-28T17:52:15.097Z [INFO]: Processing dish: Palak Paneer
+2025-04-28T17:52:15.098Z [INFO]: Estimating nutrition for: Palak Paneer
+2025-04-28T17:52:15.099Z [INFO]: Using sample recipe for Palak Paneer
+2025-04-28T17:52:15.100Z [ERROR]: Error estimating nutrition for Palak Paneer: logger.warning is not a function
+2025-04-28T17:52:15.106Z [INFO]: Processing dish: Aloo Gobi
+2025-04-28T17:52:15.107Z [INFO]: Estimating nutrition for: Aloo Gobi
+2025-04-28T17:52:15.108Z [INFO]: Using sample recipe for Aloo Gobi
+2025-04-28T17:52:15.109Z [ERROR]: Error estimating nutrition for Aloo Gobi: logger.warning is not a function
+2025-04-28T17:52:24.102Z [INFO]: Processing dish: Paneer Butter Masala
+2025-04-28T17:52:24.104Z [INFO]: Estimating nutrition for: Paneer Butter Masala
+2025-04-28T17:52:24.105Z [INFO]: Using sample recipe for Paneer Butter Masala
+2025-04-28T17:52:24.108Z [ERROR]: Error estimating nutrition for Paneer Butter Masala: logger.warning is not a function
+2025-04-28T17:52:24.109Z [INFO]: Processing dish: Dal Makhani
+2025-04-28T17:52:24.110Z [INFO]: Estimating nutrition for: Dal Makhani
+2025-04-28T17:52:24.110Z [INFO]: Using sample recipe for Dal Makhani
+2025-04-28T17:52:24.110Z [INFO]: Mapped 'black urad dal' to 'dal'
+2025-04-28T17:52:24.111Z [ERROR]: Error estimating nutrition for Dal Makhani: logger.warning is not a function
+2025-04-28T17:52:24.112Z [INFO]: Processing dish: Chole Bhature
+2025-04-28T17:52:24.113Z [INFO]: Estimating nutrition for: Chole Bhature
+2025-04-28T17:52:24.115Z [INFO]: Using sample recipe for Chole Bhature
+2025-04-28T17:52:24.120Z [ERROR]: Error estimating nutrition for Chole Bhature: logger.warning is not a function
+2025-04-28T17:52:24.123Z [INFO]: Processing dish: Palak Paneer
+2025-04-28T17:52:24.124Z [INFO]: Estimating nutrition for: Palak Paneer
+2025-04-28T17:52:24.125Z [INFO]: Using sample recipe for Palak Paneer
+2025-04-28T17:52:24.126Z [ERROR]: Error estimating nutrition for Palak Paneer: logger.warning is not a function
+2025-04-28T17:52:24.129Z [INFO]: Processing dish: Aloo Gobi
+2025-04-28T17:52:24.130Z [INFO]: Estimating nutrition for: Aloo Gobi
+2025-04-28T17:52:24.135Z [INFO]: Using sample recipe for Aloo Gobi
+2025-04-28T17:52:24.136Z [ERROR]: Error estimating nutrition for Aloo Gobi: logger.warning is not a function
+2025-04-28T18:02:58.156Z [INFO]: Processing dish: Paneer Butter Masala
+2025-04-28T18:02:58.159Z [INFO]: Estimating nutrition for: Paneer Butter Masala
+2025-04-28T18:02:58.159Z [INFO]: Using sample recipe for Paneer Butter Masala
+2025-04-28T18:02:58.163Z [WARN]: Could not standardize ingredient name: butter
+2025-04-28T18:02:58.164Z [ERROR]: Error estimating nutrition for Paneer Butter Masala: logger.warning is not a function
+2025-04-28T18:02:58.166Z [INFO]: Processing dish: Dal Makhani
+2025-04-28T18:02:58.167Z [INFO]: Estimating nutrition for: Dal Makhani
+2025-04-28T18:02:58.168Z [INFO]: Using sample recipe for Dal Makhani
+2025-04-28T18:02:58.169Z [INFO]: Mapped 'black urad dal' to 'dal'
+2025-04-28T18:02:58.177Z [ERROR]: Error estimating nutrition for Dal Makhani: logger.warning is not a function
+2025-04-28T18:02:58.180Z [INFO]: Processing dish: Chole Bhature
+2025-04-28T18:02:58.181Z [INFO]: Estimating nutrition for: Chole Bhature
+2025-04-28T18:02:58.182Z [INFO]: Using sample recipe for Chole Bhature
+2025-04-28T18:02:58.183Z [WARN]: Could not standardize ingredient name: chickpeas (chole)
+2025-04-28T18:02:58.184Z [ERROR]: Error estimating nutrition for Chole Bhature: logger.warning is not a function
+2025-04-28T18:02:58.190Z [INFO]: Processing dish: Palak Paneer
+2025-04-28T18:02:58.192Z [INFO]: Estimating nutrition for: Palak Paneer
+2025-04-28T18:02:58.192Z [INFO]: Using sample recipe for Palak Paneer
+2025-04-28T18:02:58.194Z [WARN]: Could not standardize ingredient name: spinach (palak)
+2025-04-28T18:02:58.195Z [WARN]: Could not standardize ingredient name: onion
+2025-04-28T18:02:58.196Z [WARN]: Could not standardize ingredient name: tomato
+2025-04-28T18:02:58.197Z [WARN]: Could not standardize ingredient name: ginger
+2025-04-28T18:02:58.198Z [WARN]: Could not standardize ingredient name: garlic
+2025-04-28T18:02:58.199Z [ERROR]: Error estimating nutrition for Palak Paneer: logger.warning is not a function
+2025-04-28T18:02:58.201Z [INFO]: Processing dish: Aloo Gobi
+2025-04-28T18:02:58.206Z [INFO]: Estimating nutrition for: Aloo Gobi
+2025-04-28T18:02:58.207Z [INFO]: Using sample recipe for Aloo Gobi
+2025-04-28T18:02:58.209Z [WARN]: Could not standardize ingredient name: potato
+2025-04-28T18:02:58.209Z [WARN]: Could not standardize ingredient name: cauliflower
+2025-04-28T18:02:58.210Z [ERROR]: Error estimating nutrition for Aloo Gobi: logger.warning is not a function
+2025-04-28T18:03:19.244Z [INFO]: Processing dish: Paneer Butter Masala
+2025-04-28T18:03:19.246Z [INFO]: Estimating nutrition for: Paneer Butter Masala
+2025-04-28T18:03:19.247Z [INFO]: Using sample recipe for Paneer Butter Masala
+2025-04-28T18:03:19.251Z [WARN]: Could not standardize ingredient name: butter
+2025-04-28T18:03:19.252Z [ERROR]: Error estimating nutrition for Paneer Butter Masala: logger.warning is not a function
+2025-04-28T18:03:19.254Z [INFO]: Processing dish: Dal Makhani
+2025-04-28T18:03:19.255Z [INFO]: Estimating nutrition for: Dal Makhani
+2025-04-28T18:03:19.255Z [INFO]: Using sample recipe for Dal Makhani
+2025-04-28T18:03:19.256Z [INFO]: Mapped 'black urad dal' to 'dal'
+2025-04-28T18:03:19.257Z [ERROR]: Error estimating nutrition for Dal Makhani: logger.warning is not a function
+2025-04-28T18:03:19.259Z [INFO]: Processing dish: Chole Bhature
+2025-04-28T18:03:19.260Z [INFO]: Estimating nutrition for: Chole Bhature
+2025-04-28T18:03:19.261Z [INFO]: Using sample recipe for Chole Bhature
+2025-04-28T18:03:19.262Z [WARN]: Could not standardize ingredient name: chickpeas (chole)
+2025-04-28T18:03:19.264Z [ERROR]: Error estimating nutrition for Chole Bhature: logger.warning is not a function
+2025-04-28T18:03:19.267Z [INFO]: Processing dish: Palak Paneer
+2025-04-28T18:03:19.268Z [INFO]: Estimating nutrition for: Palak Paneer
+2025-04-28T18:03:19.269Z [INFO]: Using sample recipe for Palak Paneer
+2025-04-28T18:03:19.276Z [WARN]: Could not standardize ingredient name: spinach (palak)
+2025-04-28T18:03:19.277Z [WARN]: Could not standardize ingredient name: onion
+2025-04-28T18:03:19.278Z [WARN]: Could not standardize ingredient name: tomato
+2025-04-28T18:03:19.279Z [WARN]: Could not standardize ingredient name: ginger
+2025-04-28T18:03:19.280Z [WARN]: Could not standardize ingredient name: garlic
+2025-04-28T18:03:19.281Z [ERROR]: Error estimating nutrition for Palak Paneer: logger.warning is not a function
+2025-04-28T18:03:19.284Z [INFO]: Processing dish: Aloo Gobi
+2025-04-28T18:03:19.289Z [INFO]: Estimating nutrition for: Aloo Gobi
+2025-04-28T18:03:19.291Z [INFO]: Using sample recipe for Aloo Gobi
+2025-04-28T18:03:19.293Z [WARN]: Could not standardize ingredient name: potato
+2025-04-28T18:03:19.294Z [WARN]: Could not standardize ingredient name: cauliflower
+2025-04-28T18:03:19.295Z [ERROR]: Error estimating nutrition for Aloo Gobi: logger.warning is not a function
+2025-04-28T18:16:49.706Z [INFO]: Estimating nutrition for: Paneer Butter Masala
+2025-04-28T18:16:49.712Z [INFO]: Using sample recipe for Paneer Butter Masala
+2025-04-28T18:16:49.717Z [WARN]: Could not standardize ingredient name: butter
+2025-04-28T18:16:49.725Z [ERROR]: Error estimating nutrition for Paneer Butter Masala: logger.warning is not a function
+2025-04-28T18:18:08.959Z [INFO]: Estimating nutrition for: Kadai Paneer
+2025-04-28T18:18:08.960Z [WARN]: No recipe found for Kadai Paneer, using fallback recipe
+2025-04-28T18:18:08.961Z [WARN]: Could not standardize ingredient name: onion
+2025-04-28T18:18:08.962Z [WARN]: Could not standardize ingredient name: tomato
+2025-04-28T18:18:08.962Z [WARN]: Could not standardize ingredient name: ginger
+2025-04-28T18:18:08.963Z [WARN]: Could not standardize ingredient name: garlic
+2025-04-28T18:18:08.965Z [ERROR]: Error estimating nutrition for Kadai Paneer: logger.warning is not a function
+2025-04-28T18:26:05.486Z [INFO]: Estimating nutrition for: Kadai Paneer
+2025-04-28T18:26:05.487Z [WARN]: No recipe found for Kadai Paneer, using fallback recipe
+2025-04-28T18:26:05.489Z [WARN]: Could not standardize ingredient name: onion
+2025-04-28T18:26:05.489Z [WARN]: Could not standardize ingredient name: tomato
+2025-04-28T18:26:05.490Z [WARN]: Could not standardize ingredient name: ginger
+2025-04-28T18:26:05.491Z [WARN]: Could not standardize ingredient name: garlic
+2025-04-28T18:26:05.492Z [ERROR]: Error estimating nutrition for Kadai Paneer: logger.warning is not a function
+2025-04-28T18:26:08.242Z [INFO]: Estimating nutrition for: Kadai Paneer
+2025-04-28T18:26:08.243Z [WARN]: No recipe found for Kadai Paneer, using fallback recipe
+2025-04-28T18:26:08.244Z [WARN]: Could not standardize ingredient name: onion
+2025-04-28T18:26:08.244Z [WARN]: Could not standardize ingredient name: tomato
+2025-04-28T18:26:08.245Z [WARN]: Could not standardize ingredient name: ginger
+2025-04-28T18:26:08.245Z [WARN]: Could not standardize ingredient name: garlic
+2025-04-28T18:26:08.246Z [ERROR]: Error estimating nutrition for Kadai Paneer: logger.warning is not a function
+2025-04-28T18:26:23.810Z [INFO]: Estimating nutrition for: Kadai Paneer
+2025-04-28T18:26:23.814Z [WARN]: No recipe found for Kadai Paneer, using fallback recipe
+2025-04-28T18:26:23.816Z [WARN]: Could not standardize ingredient name: onion
+2025-04-28T18:26:23.818Z [WARN]: Could not standardize ingredient name: tomato
+2025-04-28T18:26:23.819Z [WARN]: Could not standardize ingredient name: ginger
+2025-04-28T18:26:23.820Z [WARN]: Could not standardize ingredient name: garlic
+2025-04-28T18:26:23.821Z [WARN]: Unhandled unit conversion: 3 liter of garlic, assuming 10g
+2025-04-28T18:26:23.822Z [WARN]: Could not standardize ingredient name: green chilli
+2025-04-28T18:26:23.824Z [WARN]: Could not standardize ingredient name: spices
+2025-04-28T18:26:23.824Z [WARN]: Unhandled unit conversion: 2 teaspoon of spices, assuming 10g
+2025-04-28T18:26:23.829Z [WARN]: Ingredient 'onion' not found in nutrition database
+2025-04-28T18:26:23.830Z [WARN]: Ingredient 'tomato' not found in nutrition database
+2025-04-28T18:26:23.832Z [WARN]: Ingredient 'ginger' not found in nutrition database
+2025-04-28T18:26:23.833Z [WARN]: Ingredient 'garlic' not found in nutrition database
+2025-04-28T18:26:23.834Z [WARN]: Ingredient 'green chilli' not found in nutrition database
+2025-04-28T18:26:23.835Z [WARN]: Ingredient 'spices' not found in nutrition database
+2025-04-28T18:26:23.837Z [WARN]: No standard serving size for Veg Gravy, using default of 100g
+2025-04-28T18:26:23.838Z [INFO]: Successfully estimated nutrition for Kadai Paneer
+2025-04-28T18:28:15.828Z [INFO]: Estimating nutrition for: Paneer Butter Masala
+2025-04-28T18:28:15.831Z [INFO]: Using sample recipe for Paneer Butter Masala
+2025-04-28T18:28:15.833Z [WARN]: Could not standardize ingredient name: butter
+2025-04-28T18:28:15.836Z [WARN]: Unhandled unit conversion: 2 tablespoon of butter, assuming 10g
+2025-04-28T18:28:15.837Z [WARN]: Could not standardize ingredient name: tomato
+2025-04-28T18:28:15.838Z [WARN]: Could not standardize ingredient name: onion
+2025-04-28T18:28:15.839Z [WARN]: Could not standardize ingredient name: cream
+2025-04-28T18:28:15.839Z [WARN]: Unhandled unit conversion: 2 tablespoon of cream, assuming 10g
+2025-04-28T18:28:15.840Z [INFO]: Mapped 'garam masala' to 'masala'
+2025-04-28T18:28:15.841Z [WARN]: Unhandled unit conversion: 1 teaspoon of masala, assuming 10g
+2025-04-28T18:28:15.843Z [WARN]: Could not standardize ingredient name: red chilli powder
+2025-04-28T18:28:15.844Z [WARN]: Unhandled unit conversion: 1 teaspoon of red chilli powder, assuming 10g
+2025-04-28T18:28:15.851Z [WARN]: Could not standardize ingredient name: turmeric powder
+2025-04-28T18:28:15.853Z [WARN]: Unhandled unit conversion: 0.5 teaspoon of turmeric powder, assuming 10g
+2025-04-28T18:28:15.855Z [WARN]: Could not standardize ingredient name: salt
+2025-04-28T18:28:15.855Z [WARN]: Ingredient 'butter' not found in nutrition database
+2025-04-28T18:28:15.856Z [WARN]: Ingredient 'tomato' not found in nutrition database
+2025-04-28T18:28:15.857Z [WARN]: Ingredient 'onion' not found in nutrition database
+2025-04-28T18:28:15.858Z [WARN]: Ingredient 'cream' not found in nutrition database
+2025-04-28T18:28:15.858Z [WARN]: Ingredient 'red chilli powder' not found in nutrition database
+2025-04-28T18:28:15.860Z [WARN]: Ingredient 'turmeric powder' not found in nutrition database
+2025-04-28T18:28:15.863Z [WARN]: Ingredient 'salt' not found in nutrition database
+2025-04-28T18:28:15.864Z [WARN]: No standard serving size for Veg Gravy, using default of 100g
+2025-04-28T18:28:15.868Z [INFO]: Successfully estimated nutrition for Paneer Butter Masala
+2025-04-28T18:28:33.639Z [INFO]: Estimating nutrition for: Dal Tadka
+2025-04-28T18:28:33.642Z [WARN]: No recipe found for Dal Tadka, using fallback recipe
+2025-04-28T18:28:33.646Z [WARN]: Could not standardize ingredient name: lentils
+2025-04-28T18:28:33.647Z [WARN]: Unhandled unit conversion: 1 cup of lentils, assuming 10g
+2025-04-28T18:28:33.649Z [WARN]: Could not standardize ingredient name: onion
+2025-04-28T18:28:33.650Z [WARN]: Could not standardize ingredient name: tomato
+2025-04-28T18:28:33.651Z [WARN]: Could not standardize ingredient name: spices
+2025-04-28T18:28:33.651Z [WARN]: Unhandled unit conversion: 1 tablespoon of spices, assuming 10g
+2025-04-28T18:28:33.652Z [WARN]: Ingredient 'lentils' not found in nutrition database
+2025-04-28T18:28:33.653Z [WARN]: Ingredient 'onion' not found in nutrition database
+2025-04-28T18:28:33.658Z [WARN]: Ingredient 'tomato' not found in nutrition database
+2025-04-28T18:28:33.659Z [WARN]: Ingredient 'spices' not found in nutrition database
+2025-04-28T18:28:33.662Z [WARN]: No standard serving size for Veg Gravy, using default of 100g
+2025-04-28T18:28:33.663Z [INFO]: Successfully estimated nutrition for Dal Tadka
+2025-04-28T18:28:42.465Z [INFO]: Estimating nutrition for: Aloo Jeera
+2025-04-28T18:28:42.467Z [WARN]: No recipe found for Aloo Jeera, using fallback recipe
+2025-04-28T18:28:42.471Z [WARN]: Could not standardize ingredient name: main ingredient
+2025-04-28T18:28:42.472Z [WARN]: Could not standardize ingredient name: onion
+2025-04-28T18:28:42.473Z [WARN]: Could not standardize ingredient name: tomato
+2025-04-28T18:28:42.474Z [WARN]: Could not standardize ingredient name: spices
+2025-04-28T18:28:42.475Z [WARN]: Unhandled unit conversion: 2 teaspoon of spices, assuming 10g
+2025-04-28T18:28:42.476Z [WARN]: Ingredient 'main ingredient' not found in nutrition database
+2025-04-28T18:28:42.477Z [WARN]: Ingredient 'onion' not found in nutrition database
+2025-04-28T18:28:42.478Z [WARN]: Ingredient 'tomato' not found in nutrition database
+2025-04-28T18:28:42.479Z [WARN]: Ingredient 'spices' not found in nutrition database
+2025-04-28T18:28:42.482Z [WARN]: No standard serving size for Veg Gravy, using default of 100g
+2025-04-28T18:28:42.483Z [INFO]: Successfully estimated nutrition for Aloo Jeera
+2025-04-28T18:28:53.520Z [INFO]: Estimating nutrition for: Hyderabadi Biryani
+2025-04-28T18:28:53.521Z [WARN]: No recipe found for Hyderabadi Biryani, using fallback recipe
+2025-04-28T18:28:53.525Z [WARN]: Could not standardize ingredient name: main ingredient
+2025-04-28T18:28:53.526Z [WARN]: Could not standardize ingredient name: onion
+2025-04-28T18:28:53.527Z [WARN]: Could not standardize ingredient name: tomato
+2025-04-28T18:28:53.527Z [WARN]: Could not standardize ingredient name: spices
+2025-04-28T18:28:53.529Z [WARN]: Unhandled unit conversion: 2 teaspoon of spices, assuming 10g
+2025-04-28T18:28:53.529Z [WARN]: Ingredient 'main ingredient' not found in nutrition database
+2025-04-28T18:28:53.530Z [WARN]: Ingredient 'onion' not found in nutrition database
+2025-04-28T18:28:53.531Z [WARN]: Ingredient 'tomato' not found in nutrition database
+2025-04-28T18:28:53.532Z [WARN]: Ingredient 'spices' not found in nutrition database
+2025-04-28T18:28:53.533Z [WARN]: No standard serving size for Veg Gravy, using default of 100g
+2025-04-28T18:28:53.534Z [INFO]: Successfully estimated nutrition for Hyderabadi Biryani
+2025-04-28T18:29:07.934Z [INFO]: Estimating nutrition for: Paneer@Masala#123
+2025-04-28T18:29:07.937Z [WARN]: No recipe found for Paneer@Masala#123, using fallback recipe
+2025-04-28T18:29:07.942Z [WARN]: Could not standardize ingredient name: onion
+2025-04-28T18:29:07.942Z [WARN]: Could not standardize ingredient name: tomato
+2025-04-28T18:29:07.943Z [WARN]: Could not standardize ingredient name: ginger
+2025-04-28T18:29:07.944Z [WARN]: Could not standardize ingredient name: garlic
+2025-04-28T18:29:07.946Z [WARN]: Unhandled unit conversion: 3 liter of garlic, assuming 10g
+2025-04-28T18:29:07.946Z [WARN]: Could not standardize ingredient name: green chilli
+2025-04-28T18:29:07.948Z [WARN]: Could not standardize ingredient name: spices
+2025-04-28T18:29:07.949Z [WARN]: Unhandled unit conversion: 2 teaspoon of spices, assuming 10g
+2025-04-28T18:29:07.950Z [WARN]: Ingredient 'onion' not found in nutrition database
+2025-04-28T18:29:07.950Z [WARN]: Ingredient 'tomato' not found in nutrition database
+2025-04-28T18:29:07.952Z [WARN]: Ingredient 'ginger' not found in nutrition database
+2025-04-28T18:29:07.953Z [WARN]: Ingredient 'garlic' not found in nutrition database
+2025-04-28T18:29:07.954Z [WARN]: Ingredient 'green chilli' not found in nutrition database
+2025-04-28T18:29:07.955Z [WARN]: Ingredient 'spices' not found in nutrition database
+2025-04-28T18:29:07.955Z [WARN]: No standard serving size for Veg Gravy, using default of 100g
+2025-04-28T18:29:07.956Z [INFO]: Successfully estimated nutrition for Paneer@Masala#123
+2025-04-29T02:50:57.041Z [INFO]: Estimating nutrition for: Paneer@Masala#123
+2025-04-29T02:50:57.048Z [WARN]: No recipe found for Paneer@Masala#123, using fallback recipe
+2025-04-29T02:50:57.056Z [WARN]: Could not standardize ingredient name: onion
+2025-04-29T02:50:57.059Z [WARN]: Could not standardize ingredient name: tomato
+2025-04-29T02:50:57.062Z [WARN]: Could not standardize ingredient name: ginger
+2025-04-29T02:50:57.063Z [WARN]: Could not standardize ingredient name: garlic
+2025-04-29T02:50:57.064Z [WARN]: Unhandled unit conversion: 3 liter of garlic, assuming 10g
+2025-04-29T02:50:57.065Z [WARN]: Could not standardize ingredient name: green chilli
+2025-04-29T02:50:57.066Z [WARN]: Could not standardize ingredient name: spices
+2025-04-29T02:50:57.066Z [WARN]: Unhandled unit conversion: 2 teaspoon of spices, assuming 10g
+2025-04-29T02:50:57.068Z [WARN]: Ingredient 'onion' not found in nutrition database
+2025-04-29T02:50:57.070Z [WARN]: Ingredient 'tomato' not found in nutrition database
+2025-04-29T02:50:57.071Z [WARN]: Ingredient 'ginger' not found in nutrition database
+2025-04-29T02:50:57.072Z [WARN]: Ingredient 'garlic' not found in nutrition database
+2025-04-29T02:50:57.076Z [WARN]: Ingredient 'green chilli' not found in nutrition database
+2025-04-29T02:50:57.076Z [WARN]: Ingredient 'spices' not found in nutrition database
+2025-04-29T02:50:57.079Z [WARN]: No standard serving size for Veg Gravy, using default of 100g
+2025-04-29T02:50:57.080Z [INFO]: Successfully estimated nutrition for Paneer@Masala#123
+2025-04-29T03:08:53.591Z [INFO]: Estimating nutrition for: Paneer@Masala#123
+2025-04-29T03:08:53.594Z [WARN]: No recipe found for Paneer@Masala#123, using fallback recipe
+2025-04-29T03:08:53.596Z [WARN]: Could not standardize ingredient name: onion
+2025-04-29T03:08:53.598Z [WARN]: Could not standardize ingredient name: tomato
+2025-04-29T03:08:53.598Z [WARN]: Could not standardize ingredient name: ginger
+2025-04-29T03:08:53.599Z [WARN]: Could not standardize ingredient name: garlic
+2025-04-29T03:08:53.599Z [WARN]: Unhandled unit conversion: 3 liter of garlic, assuming 10g
+2025-04-29T03:08:53.599Z [WARN]: Could not standardize ingredient name: green chilli
+2025-04-29T03:08:53.600Z [WARN]: Could not standardize ingredient name: spices
+2025-04-29T03:08:53.600Z [WARN]: Unhandled unit conversion: 2 teaspoon of spices, assuming 10g
+2025-04-29T03:08:53.601Z [WARN]: Ingredient 'onion' not found in nutrition database
+2025-04-29T03:08:53.602Z [WARN]: Ingredient 'tomato' not found in nutrition database
+2025-04-29T03:08:53.602Z [WARN]: Ingredient 'ginger' not found in nutrition database
+2025-04-29T03:08:53.603Z [WARN]: Ingredient 'garlic' not found in nutrition database
+2025-04-29T03:08:53.603Z [WARN]: Ingredient 'green chilli' not found in nutrition database
+2025-04-29T03:08:53.603Z [WARN]: Ingredient 'spices' not found in nutrition database
+2025-04-29T03:08:53.604Z [WARN]: No standard serving size for Veg Gravy, using default of 100g
+2025-04-29T03:08:53.604Z [INFO]: Successfully estimated nutrition for Paneer@Masala#123
+2025-04-29T03:09:08.034Z [INFO]: Estimating nutrition for: chapala pulusu
+2025-04-29T03:09:08.034Z [WARN]: No recipe found for chapala pulusu, using fallback recipe
+2025-04-29T03:09:08.036Z [WARN]: Could not standardize ingredient name: main ingredient
+2025-04-29T03:09:08.037Z [WARN]: Could not standardize ingredient name: onion
+2025-04-29T03:09:08.038Z [WARN]: Could not standardize ingredient name: tomato
+2025-04-29T03:09:08.039Z [WARN]: Could not standardize ingredient name: spices
+2025-04-29T03:09:08.040Z [WARN]: Unhandled unit conversion: 2 teaspoon of spices, assuming 10g
+2025-04-29T03:09:08.041Z [WARN]: Ingredient 'main ingredient' not found in nutrition database
+2025-04-29T03:09:08.041Z [WARN]: Ingredient 'onion' not found in nutrition database
+2025-04-29T03:09:08.043Z [WARN]: Ingredient 'tomato' not found in nutrition database
+2025-04-29T03:09:08.044Z [WARN]: Ingredient 'spices' not found in nutrition database
+2025-04-29T03:09:08.047Z [WARN]: No standard serving size for Veg Gravy, using default of 100g
+2025-04-29T03:09:08.048Z [INFO]: Successfully estimated nutrition for chapala pulusu
+2025-04-29T03:09:35.858Z [INFO]: Estimating nutrition for: fish curry
+2025-04-29T03:09:35.860Z [WARN]: No recipe found for fish curry, using fallback recipe
+2025-04-29T03:09:35.864Z [WARN]: Could not standardize ingredient name: main ingredient
+2025-04-29T03:09:35.864Z [WARN]: Could not standardize ingredient name: onion
+2025-04-29T03:09:35.865Z [WARN]: Could not standardize ingredient name: tomato
+2025-04-29T03:09:35.866Z [WARN]: Could not standardize ingredient name: spices
+2025-04-29T03:09:35.867Z [WARN]: Unhandled unit conversion: 2 teaspoon of spices, assuming 10g
+2025-04-29T03:09:35.868Z [WARN]: Ingredient 'main ingredient' not found in nutrition database
+2025-04-29T03:09:35.869Z [WARN]: Ingredient 'onion' not found in nutrition database
+2025-04-29T03:09:35.870Z [WARN]: Ingredient 'tomato' not found in nutrition database
+2025-04-29T03:09:35.871Z [WARN]: Ingredient 'spices' not found in nutrition database
+2025-04-29T03:09:35.873Z [WARN]: No standard serving size for Veg Gravy, using default of 100g
+2025-04-29T03:09:35.876Z [INFO]: Successfully estimated nutrition for fish curry
+2025-04-29T03:09:45.272Z [INFO]: Estimating nutrition for: checken
+2025-04-29T03:09:45.274Z [WARN]: No recipe found for checken, using fallback recipe
+2025-04-29T03:09:45.280Z [WARN]: Could not standardize ingredient name: main ingredient
+2025-04-29T03:09:45.281Z [WARN]: Could not standardize ingredient name: onion
+2025-04-29T03:09:45.282Z [WARN]: Could not standardize ingredient name: tomato
+2025-04-29T03:09:45.283Z [WARN]: Could not standardize ingredient name: spices
+2025-04-29T03:09:45.284Z [WARN]: Unhandled unit conversion: 2 teaspoon of spices, assuming 10g
+2025-04-29T03:09:45.285Z [WARN]: Ingredient 'main ingredient' not found in nutrition database
+2025-04-29T03:09:45.287Z [WARN]: Ingredient 'onion' not found in nutrition database
+2025-04-29T03:09:45.288Z [WARN]: Ingredient 'tomato' not found in nutrition database
+2025-04-29T03:09:45.292Z [WARN]: Ingredient 'spices' not found in nutrition database
+2025-04-29T03:09:45.293Z [WARN]: No standard serving size for Veg Gravy, using default of 100g
+2025-04-29T03:09:45.296Z [INFO]: Successfully estimated nutrition for checken
+2025-04-29T03:31:21.217Z [INFO]: Estimating nutrition for: hyderabad biryani
+2025-04-29T03:31:21.220Z [WARN]: No recipe found for hyderabad biryani, using fallback recipe
+2025-04-29T03:31:21.221Z [WARN]: Could not standardize ingredient name: main ingredient
+2025-04-29T03:31:21.226Z [WARN]: Could not standardize ingredient name: onion
+2025-04-29T03:31:21.227Z [WARN]: Could not standardize ingredient name: tomato
+2025-04-29T03:31:21.228Z [WARN]: Could not standardize ingredient name: spices
+2025-04-29T03:31:21.229Z [WARN]: Unhandled unit conversion: 2 teaspoon of spices, assuming 10g
+2025-04-29T03:31:21.231Z [WARN]: Ingredient 'main ingredient' not found in nutrition database
+2025-04-29T03:31:21.232Z [WARN]: Ingredient 'onion' not found in nutrition database
+2025-04-29T03:31:21.233Z [WARN]: Ingredient 'tomato' not found in nutrition database
+2025-04-29T03:31:21.234Z [WARN]: Ingredient 'spices' not found in nutrition database
+2025-04-29T03:31:21.235Z [WARN]: No standard serving size for Veg Gravy, using default of 100g
+2025-04-29T03:31:21.236Z [INFO]: Successfully estimated nutrition for hyderabad biryani
+2025-04-29T11:38:27.559Z [INFO]: Estimating nutrition for: Paneer butter masala
+2025-04-29T11:38:27.563Z [INFO]: Using sample recipe for Paneer butter masala
+2025-04-29T11:38:27.566Z [WARN]: Could not standardize ingredient name: butter
+2025-04-29T11:38:27.567Z [WARN]: Unhandled unit conversion: 2 tablespoon of butter, assuming 10g
+2025-04-29T11:38:27.568Z [WARN]: Could not standardize ingredient name: tomato
+2025-04-29T11:38:27.569Z [WARN]: Could not standardize ingredient name: onion
+2025-04-29T11:38:27.570Z [WARN]: Could not standardize ingredient name: cream
+2025-04-29T11:38:27.571Z [WARN]: Unhandled unit conversion: 2 tablespoon of cream, assuming 10g
+2025-04-29T11:38:27.571Z [INFO]: Mapped 'garam masala' to 'masala'
+2025-04-29T11:38:27.572Z [WARN]: Unhandled unit conversion: 1 teaspoon of masala, assuming 10g
+2025-04-29T11:38:27.575Z [WARN]: Could not standardize ingredient name: red chilli powder
+2025-04-29T11:38:27.576Z [WARN]: Unhandled unit conversion: 1 teaspoon of red chilli powder, assuming 10g
+2025-04-29T11:38:27.577Z [WARN]: Could not standardize ingredient name: turmeric powder
+2025-04-29T11:38:27.577Z [WARN]: Unhandled unit conversion: 0.5 teaspoon of turmeric powder, assuming 10g
+2025-04-29T11:38:27.578Z [WARN]: Could not standardize ingredient name: salt
+2025-04-29T11:38:27.579Z [WARN]: Ingredient 'butter' not found in nutrition database
+2025-04-29T11:38:27.579Z [WARN]: Ingredient 'tomato' not found in nutrition database
+2025-04-29T11:38:27.579Z [WARN]: Ingredient 'onion' not found in nutrition database
+2025-04-29T11:38:27.580Z [WARN]: Ingredient 'cream' not found in nutrition database
+2025-04-29T11:38:27.580Z [WARN]: Ingredient 'red chilli powder' not found in nutrition database
+2025-04-29T11:38:27.580Z [WARN]: Ingredient 'turmeric powder' not found in nutrition database
+2025-04-29T11:38:27.581Z [WARN]: Ingredient 'salt' not found in nutrition database
+2025-04-29T11:38:27.584Z [WARN]: No standard serving size for Veg Gravy, using default of 100g
+2025-04-29T11:38:27.585Z [INFO]: Successfully estimated nutrition for Paneer butter masala
+2025-04-29T11:39:16.409Z [INFO]: Estimating nutrition for: chicken
+2025-04-29T11:39:16.411Z [WARN]: No recipe found for chicken, using fallback recipe
+2025-04-29T11:39:16.414Z [WARN]: Could not standardize ingredient name: onion
+2025-04-29T11:39:16.415Z [WARN]: Could not standardize ingredient name: tomato
+2025-04-29T11:39:16.416Z [WARN]: Could not standardize ingredient name: ginger
+2025-04-29T11:39:16.417Z [WARN]: Could not standardize ingredient name: garlic
+2025-04-29T11:39:16.417Z [WARN]: Unhandled unit conversion: 5 liter of garlic, assuming 10g
+2025-04-29T11:39:16.418Z [WARN]: Could not standardize ingredient name: spices
+2025-04-29T11:39:16.420Z [WARN]: Unhandled unit conversion: 2 tablespoon of spices, assuming 10g
+2025-04-29T11:39:16.422Z [WARN]: Ingredient 'onion' not found in nutrition database
+2025-04-29T11:39:16.422Z [WARN]: Ingredient 'tomato' not found in nutrition database
+2025-04-29T11:39:16.423Z [WARN]: Ingredient 'ginger' not found in nutrition database
+2025-04-29T11:39:16.424Z [WARN]: Ingredient 'garlic' not found in nutrition database
+2025-04-29T11:39:16.424Z [WARN]: Ingredient 'spices' not found in nutrition database
+2025-04-29T11:39:16.425Z [WARN]: No standard serving size for Non - Veg Gravy, using default of 100g
+2025-04-29T11:39:16.426Z [WARN]: Calculated total weight (1055g) differs significantly from expected weight for 4 servings (400g)
+2025-04-29T11:39:16.428Z [INFO]: Successfully estimated nutrition for chicken
+2025-04-29T11:39:29.714Z [INFO]: Estimating nutrition for: chicken
+2025-04-29T11:39:29.720Z [WARN]: No recipe found for chicken, using fallback recipe
+2025-04-29T11:39:29.722Z [WARN]: Could not standardize ingredient name: onion
+2025-04-29T11:39:29.723Z [WARN]: Could not standardize ingredient name: tomato
+2025-04-29T11:39:29.725Z [WARN]: Could not standardize ingredient name: ginger
+2025-04-29T11:39:29.726Z [WARN]: Could not standardize ingredient name: garlic
+2025-04-29T11:39:29.727Z [WARN]: Unhandled unit conversion: 5 liter of garlic, assuming 10g
+2025-04-29T11:39:29.728Z [WARN]: Could not standardize ingredient name: spices
+2025-04-29T11:39:29.729Z [WARN]: Unhandled unit conversion: 2 tablespoon of spices, assuming 10g
+2025-04-29T11:39:29.730Z [WARN]: Ingredient 'onion' not found in nutrition database
+2025-04-29T11:39:29.730Z [WARN]: Ingredient 'tomato' not found in nutrition database
+2025-04-29T11:39:29.732Z [WARN]: Ingredient 'ginger' not found in nutrition database
+2025-04-29T11:39:29.733Z [WARN]: Ingredient 'garlic' not found in nutrition database
+2025-04-29T11:39:29.734Z [WARN]: Ingredient 'spices' not found in nutrition database
+2025-04-29T11:39:29.735Z [WARN]: No standard serving size for Non - Veg Gravy, using default of 100g
+2025-04-29T11:39:29.736Z [WARN]: Calculated total weight (1055g) differs significantly from expected weight for 4 servings (400g)
+2025-04-29T11:39:29.736Z [INFO]: Successfully estimated nutrition for chicken
