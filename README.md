@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Indian Dish Nutrition Calculator
 
 A system to estimate the nutritional value of Indian dishes per standard serving.
@@ -115,3 +116,6 @@ Results are saved to `nutrition_results.json` when running the main script.
 ## License
 
 MIT
+=======
+# Nutrition-Calculator
+>>>>>>> origin/main
